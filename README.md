@@ -1,2 +1,4 @@
 # Assignment2_COMP3123
-This is the github REPO for my assignment 2 
+# Hello Mr. Protish!
+
+It's a pleasure to have you here. In this repository, you'll find all the code behind my project for Assignment #2. Thank you for taking the time to explore it!
